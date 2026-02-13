@@ -1,12 +1,13 @@
-# Chapter 3: Coding Attention Mechanisms
+# Поглавље 3: Програмирање механизама пажње
 
 &nbsp;
-## Main Chapter Code
+## Главни код поглавља
 
-- [01_main-chapter-code](01_main-chapter-code) contains the main chapter code.
+- [01_main-chapter-code](01_main-chapter-code) садржи главни код из поглавља.
 
 &nbsp;
-## Bonus Materials
+## Додатни материјали
 
-- [02_bonus_efficient-multihead-attention](02_bonus_efficient-multihead-attention) implements and compares different implementation variants of multihead-attention
-- [03_understanding-buffers](03_understanding-buffers) explains the idea behind PyTorch buffers, which are used to implement the causal attention mechanism in chapter 3
+- [02_bonus_efficient-multihead-attention](02_bonus_efficient-multihead-attention) имплементира и пореди различите варијанте имплементације "вишеглаве" пажње
+
+- [03_understanding-buffers](03_understanding-buffers) објашњава концепт PyTorch бафера, који се користе за имплементацију каузалног механизма пажње у поглављу 3.

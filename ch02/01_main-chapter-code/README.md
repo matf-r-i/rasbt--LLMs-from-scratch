@@ -1,9 +1,11 @@
 # Chapter 2: Working with Text Data
 
-### Main Chapter Code
+# Поглавље 2: Рад са текстуалним подацима
 
-- [ch02.ipynb](ch02.ipynb) contains all the code as it appears in the chapter
+## Главни код поглавља
 
-### Optional Code
+- [ch02.ipynb](ch02.ipynb) је Jupyter notebook свеска садржи сав код како је приказан у поглављу
 
-- [dataloader.ipynb](dataloader.ipynb) is a minimal notebook with the main data loading pipeline implemented in this chapter
+## Опциони код
+
+- [dataloader.ipynb](dataloader.ipynb) је минималнa Jupyter notebook свеска са главним током за учитавање података који је имплементиран у овом поглављу
