@@ -5,7 +5,9 @@
       "Bash(python:*)",
       "Bash(findstr:*)",
       "Bash(powershell -Command:*)",
-      "Bash(powershell -ExecutionPolicy Bypass -File:*)"
+      "Bash(powershell -ExecutionPolicy Bypass -File:*)",
+      "Bash(tree:*)",
+      "Bash(powershell:*)"
     ],
     "deny": [],
     "ask": []
